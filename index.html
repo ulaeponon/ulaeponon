@@ -24,10 +24,10 @@
 
             </div>
             <ul class="menu">
-                <li><a href="index.html"><i data-lucide="home"></i>Accueil</a></li>
-                <li><a href="Pages/Recherche.html"><i data-lucide="accessibility"></i>Je rends visite</a></li>
+                <li><a href="/index.html"><i data-lucide="home"></i>Accueil</a></li>
+                <li><a href="/pages/recherche.html"><i data-lucide="accessibility"></i>Je rends visite</a></li>
                 <li><a href="#"><i data-lucide="book-open"></i>Guide du partage</a></li>
-                <li><a href="Pages/Devenir bénévole.html"><i data-lucide="hand-helping"></i>Devenir bénévole</a></li>
+                <li><a href="/pages/volantaire.html"><i data-lucide="hand-helping"></i>Devenir bénévole</a></li>
             </ul>
             <div>
                 <a href="#" id="donate-btn">Faire un don<i data-lucide="heart-handshake"></i></a>
@@ -36,32 +36,37 @@
     </nav>
     <main>
         <section class="heroPic">
-            <div class="hero-content">
-                <h1 id="title1">Rétablissons les liens</h1>
-                <p id="slogan1">
-                    Et si vous offriez un peu de votre temps à ceux qui en ont le plus besoin ?<br>
-                    Prenez rendez-vous pour partager un moment avec une personne âgée isolée.
-                </p>
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Rétablissons les liens</h1>
+                    <p>
+                        Et si vous offriez un peu de votre temps à ceux qui en ont le plus besoin ?<br>
+                        Prenez rendez-vous pour partager un moment avec une personne âgée isolée.
+                    </p>
+                </div>
             </div>
-
+        </section>
+        <div class="container">
             <div class="searchCard-container">
-                <form class="searchForm" role="search" aria-label="Recherche de profils" action="Pages/search.html"
-                    method="get">
+                <form action="/pages/recherche.html" class="searchForm" role="search" aria-label="Recherche de profils"
+                    action="Pages/search.html" method="get">
 
                     <div class="field">
                         <label for="momentShared">Moment à partager</label>
                         <select name="moment" id="momentShared">
                             <option value="">Tous les moments possibles</option>
-                            <option value="visite">Visite</option>
-                            <option value="discussions">Discussions</option>
-                            <option value="balade">Balade</option>
-                            <option value="repas">Repas</option>
+                            <option value="Un café/thé">Un café/thé</option>
+                            <option value="Un repas">Un repas</option>
+                            <option value="Une promenade">Une promenade</option>
+                            <option value="Une sortie culturelle">Une sortie culturelle</option>
+                            <option value="Autre activité">Autre activité</option>
                         </select>
                     </div>
 
+
                     <div class="field">
-                        <label for="localisation">Votre ville</label>
-                        <input type="text" id="localisation" name="ville" autocomplete="address-level2" />
+                        <label for="localisation" >Votre ville</label>
+                        <input type="text"  name="ville" autocomplete="address-level2"  placeholder="Votre ville"/>
                     </div>
 
                     <div class="field-action">
@@ -70,7 +75,8 @@
 
                 </form>
             </div>
-        </section>
+        </div>
+
 
         <section class="personnality">
             <h1 id="title2">Les personnalités à rencontrer</h1>
