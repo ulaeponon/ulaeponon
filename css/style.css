@@ -38,7 +38,6 @@ body {
     overflow-x: hidden;
 }
 
-/* NAVBAR */
 .navbar {
     background-color: var(--primary-color);
     padding: 0.75rem 1rem;
