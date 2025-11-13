@@ -3,10 +3,6 @@
   <img src="https://github.com/ulaeponon/ulaeponon/blob/main/URSULA%20(1200%20x%20300%20px).png" alt="Bannière Ursula" />
 </p>
 
-<p align="center">
-  <img src="URL_DE_TA_BANNIERE" alt="Bannière Ursula" />
-</p>
-
 # 👋 Bonjour, je suis Ursula
 
 Bienvenue sur mon espace GitHub !  
