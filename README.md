@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/ulaeponon/ulaeponon/blob/main/URSULA%20(1200%20x%20300%20px).png" alt="Bannière Ursula" />
+  <img src="https://github.com/ulaeponon/ulaeponon/blob/main/URSULA%20banniere.png" alt="Bannière Ursula" />
 </p>
 
 # 👋 Bonjour, je suis Ursula
