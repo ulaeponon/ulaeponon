@@ -26,7 +26,7 @@ Depuis, j’avance pas à pas vers un chemin où se rencontrent :
 
 ### ✔️ **ADAction — Plateforme de collecte de déchets (Full-Stack)**  
 Plateforme permettant de connecter citoyens et points de collecte pour améliorer la gestion des déchets.  
-**Technos :** React (front), Node.js/Express (back), Base de données (à compléter selon ton projet), API REST.
+**Technos :** React (front), Node.js/Express (back), Base de donnée, API REST.
 
 ---
 
@@ -87,8 +87,8 @@ Bâtir des outils modernes, intuitifs et impactants qui améliorent la vie des u
 ---
 
 ## 📫 Me contacter
-- LinkedIn : *(ajouter ton lien si tu veux)*  
-- Email : *(optionnel)*
+- LinkedIn :https://www.linkedin.com/in/ursula-eponon-187a62198/  
+- Email :ulaeponon@gmail.com
 
 ---
 
