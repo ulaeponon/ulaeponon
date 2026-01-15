@@ -27,25 +27,30 @@ Depuis, j’avance pas à pas vers un chemin où se rencontrent :
 ### ✔️ **ADAction — Plateforme de collecte de déchets (Full-Stack)**  
 Plateforme permettant de connecter citoyens et points de collecte pour améliorer la gestion des déchets.  
 **Technos :** React (front), Node.js/Express (back), Base de donnée, API REST.
+**Lien GitHub:**https://github.com/ulaeponon/ADAction
 
 ---
 
-### ✔️ **AdaENSE — Plateforme d’entraide intergénérationnelle**  
+### ✔️ **AdaENCE — Plateforme d’entraide intergénérationnelle**  
 Application facilitant les rencontres entre bénévoles et personnes âgées pour réduire l’isolement.  
 **Technos :** HTML, CSS, JavaScript, Node.js/Express.
+  **Lien GitHub:** https://github.com/ulaeponon/frida-adaence2
+  **Lien Demo:**https://frida-adaence-m5wy.vercel.app/
 
 ---
 
 ### ✔️ **AdaCheckEvent — Listing d’événements à Paris (React)**  
 Application affichant des événements parisiens selon des catégories.  
 **Technos :** React, Fetch API, Routing, Appels API externes.
-
+  **Lien GitHub:** https://github.com/ulaeponon/AdaCheckEvent
+  **Lien Demo:**https://adacheckevent-ursula-florian-adache.vercel.app/
 ---
 
 ### ✔️ **DataVis – Ciné du Coin — Recherche de cinémas par géolocalisation**  
 Application front reliant une API pour localiser les cinémas proches d’une adresse.  
 **Technos :** JavaScript, API cinéma, géolocalisation.
-
+ **Lien GitHub:**https://github.com/ulaeponon/Cin-du-coin
+  **Lien Demo:**https://cineducoin.vercel.app/
 ---
 
 ## 📘 Projets en cours
