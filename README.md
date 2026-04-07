@@ -55,7 +55,7 @@ Application front reliant une API pour localiser les cinémas proches d’une ad
 
 ## 📘 Projets en cours
 
-### 🛠️ **Mon Voyage Spirituel — Carnet (en cours)**  
+### 🛠️ **Mon Voyage Spirituel — (en cours)**  
 Un carnet destiné à l’introspection, la spiritualité et la transformation personnelle.  
 Je finalise actuellement la mise en page et la préparation à l'impression.
 
